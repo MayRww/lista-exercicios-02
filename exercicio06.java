@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class exercicio06 {
-    public static void main(String[] args) {
+    public static void executar()  {
         Scanner scanner = new Scanner(System.in);
 
         final int NUMERO_NOTAS = 5;
